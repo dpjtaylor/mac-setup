@@ -12,7 +12,7 @@ I mainly use Dark mode. It feels easier on my eyes, so I haven't made much use o
 
 I use the native Mac Terminal with a Solarized [profile](terminal/SolarizedDark.terminal)
 
-![Terminal](Resources/Terminal.png)
+![Terminal](images/Terminal.png)
 
 The `.zshrc` file is [here](zsh/.zshrc)
 
@@ -30,7 +30,7 @@ I use a tweaked version of the Solarized Dark color scheme. The scheme is [here]
 
 To install the profile, copy the xccolortheme file into `~/Library/Developer/Xcode/UserData/FontAndColorThemes`, restart Xcode and select it in Preferences from the Themes tab
 
-![Xcode](Resources/XcodeTheme.png)
+![Xcode](images/XcodeTheme.png)
 
 ## Ruby
 
