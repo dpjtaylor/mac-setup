@@ -10,7 +10,7 @@ I pretty much exclusively use Dark mode. It feels easier on my eyes.
 
 ## Terminal
 
-I use the native Mac Terminal with a Solarized [profile](Terminal/Solarized%20Dark.terminal)
+I use the native Mac Terminal with a Solarized [profile](Terminal/SolarizedDark.terminal)
 
 ![Terminal](Resources/Terminal.png)
 
