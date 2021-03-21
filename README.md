@@ -41,6 +41,9 @@ I have used [RVM](https://rvm.io) on company machines which seems able to naviga
 
 ## SSH
 
-There is a script [here](ssh/loadkeys.sh) which is helpful for loading ssh keys for a set number of hours and for switching ssh credentials if needed.
+There is a script [here](ssh/loadkeys.sh) which is helpful for loading ssh keys for a set number of hours and for switching ssh credentials if needed. In this case, different subfolders in the `~/.ssh`folder are used for the different credentials.
 
 If working on a shared workstation it can be good practice to use a script like this to load ssh keys from a USB key. The USB key should be encrypted in case lost.
+
+![LoadKeys](images/LoadKeys.png)
+
