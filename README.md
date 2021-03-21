@@ -18,7 +18,7 @@ The `.zshrc` file is [here](zsh/.zshrc)
 
 ### Weather in the Terminal
 
-I did try putting the weather in the terminal prompt at one point. Some caching was configured to avoid hiting the weather API too often. It was fun to do, but not super-useful to have set up permanently, and occasionally the terminal would look wonky when the API was unavailable.
+I incorporated the weather into the terminal prompt at one point. Some caching was configured to avoid hiting the weather API too often. It was fun to do, but not super-useful to have set up permanently, and occasionally the terminal would look wonky when the API was unavailable.
 
 Instead now I have an alias for checking the weather, which calls `curl wttr.in`
 
