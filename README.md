@@ -4,9 +4,9 @@
 
 I stumbled across [Solarized](https://github.com/altercation/solarized) a few years back. I was struggling with some aspects of standard Xcode themes. I find it hard to read the red text in the standard "Dusk" theme for example.
 
-With Solarized, I like that the colours are not too bright. The contrast between colours works well for me. It uses greys instead of bright whites or harsh blacks. It's quite possible I further tweaked the terminal and Xcode profiles I originally found via the Solarized site. I can't remember!
+With Solarized, I like that the colours are not too bright and the contrast between colours works well. It uses greys instead of bright whites or harsh blacks.
 
-I pretty much exclusively use Dark mode. It feels easier on my eyes.
+I mainly use Dark mode. It feels easier on my eyes, so I haven't made much use of the light versions of Solarized.
 
 ## Terminal
 
