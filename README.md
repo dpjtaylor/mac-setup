@@ -10,7 +10,7 @@ I pretty much exclusively use Dark mode. It feels easier on my eyes.
 
 ## Terminal
 
-I use the native Mac Terminal with a Solarized [profile](Terminal/SolarizedDark.terminal)
+I use the native Mac Terminal with a Solarized [profile](terminal/SolarizedDark.terminal)
 
 ![Terminal](Resources/Terminal.png)
 
@@ -25,6 +25,12 @@ Instead now I have an alias for checking the weather, which calls `curl wttr.in`
 The wttr.in project is well worth checking out. You can find it [here](https://github.com/chubin/wttr.in).
 
 ## Xcode
+
+I use a tweaked version of the Solarized Dark color scheme. The scheme is [here](xcode/SolarizedDark.xccolortheme). The original is [here](https://github.com/stackia/solarized-xcode).
+
+To install the profile, copy the xccolortheme file into `~/Library/Developer/Xcode/UserData/FontAndColorThemes`, restart Xcode and select it in Preferences from the Themes tab
+
+![Xcode](Resources/XcodeTheme.png)
 
 ## Ruby
 
